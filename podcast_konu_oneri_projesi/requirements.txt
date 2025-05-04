@@ -1,0 +1,8 @@
+nltk
+spacy
+scikit-learn
+gensim
+pandas
+matplotlib
+requests
+datasets
